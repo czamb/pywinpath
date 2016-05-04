@@ -36,6 +36,13 @@ Or if you want to see some colored output (this will install colorama):
 
 ``pip install pywinpath[color]``
 
+After installation you can call it simply with
+
+``pywinpath``
+
+Alternatively, *.exe binaries created with PyInstaller are available 
+from https://github.com/czamb/pywinpath/releases
+
 Features
 --------
     
@@ -84,4 +91,5 @@ Some links:
   * http://stackoverflow.com/questions/19287379/how-do-i-add-to-the-windows-path-variable-using-setx-having-weird-problems
   * https://software.intel.com/en-us/articles/limitation-to-the-length-of-the-system-path-variable
   * http://betanews.com/2015/11/23/windows-10-finally-adds-a-new-path-editor/
+  * http://superuser.com/questions/1070272/why-does-windows-have-a-limit-on-environment-variables-at-all
     
