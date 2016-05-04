@@ -43,6 +43,12 @@ After installation you can call it simply with
 Alternatively, *.exe binaries created with PyInstaller are available 
 from https://github.com/czamb/pywinpath/releases
 
+Screenshot
+----------
+
+.. image:: screenshot_v2016.5.3b3.png
+
+
 Features
 --------
     
